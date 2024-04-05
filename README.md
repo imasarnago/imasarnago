@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imasarnago
-- 👀 I’m interested in programming, chess and a couple of other things.   // Me gusta la programación y el ajedrez.
-- 🌱 I’m currently learning web development via different resources. Really loving it TBH.   // Aprendo desarrollo web a través de diferentes recursos.
+- 👀 I’m interested in programming, language learning, series and a couple of other things.   // Me gusta la programación, el aprendizaje de idiomas y mirar series.
+- 🌱 I’m currently studying computer science. Really loving it TBH.   // Aprendo desarrollo web a través de diferentes recursos.
 - 📫 How to reach me: imanolsarnago@gmail.com
 
 <!---
