@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imasarnago
+- 👋 Hi, I’m Imanol!
 - 👀 I’m interested in coding, language learning, series and books.
 
 
