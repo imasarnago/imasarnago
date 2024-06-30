@@ -7,5 +7,5 @@ imasarnago/imasarnago is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-- 🌱 I’m currently studying Computer Science at UNC.   
+- 🌱 I’m currently coding mostly in C. I also enjoy to use Python.   
 - 📫 How to reach me: imanolsarnago@gmail.com
