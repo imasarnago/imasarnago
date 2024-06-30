@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Imanol!
+- 👋 Hi there! I'm a student in the second year of Computer Science at FaMAF, UNC
 - 👀 I’m interested in coding, language learning, series and books.
 
 
