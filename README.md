@@ -3,12 +3,9 @@
 Welcome to my GitHub profile! I'm passionate about coding, and I love to work on interesting projects. Here's a bit more about me:
 
 ## About Me
-- 🌱 I’m currently learning: [Your current learning goals, e.g., TypeScript, Machine Learning]
-- 👯 I’m looking to collaborate on: [Projects or areas you're interested in collaborating on]
-- 🤔 I’m looking for help with: [Any specific help you need, e.g., finding open source projects to contribute to]
-- 💬 Ask me about: [Topics you are knowledgeable about or enjoy discussing]
-- 📫 How to reach me: [Your contact information, e.g., email, LinkedIn]
-- ⚡ Fun fact: [A fun fact about you]
+- 🌱 I’m currently learning: Computer Science at the university ⚡. I'm interested in cybersecurity and data analysis.
+- 📫 How to reach me: imanolsarnago@gmail.com
+- ⚡ Fun fact: I'm very passionate about language learning. I speak english and german!
 
 ## My Skills
 - Programming Languages: [C, Haskell, C, Python, Assembly(ARMv8), ¿JavaScript?]
