@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm passionate about coding, and I love to work on
 <!-- ## Projects
 Here are some of the projects I've been working on: -->
 
--<!-- [Project Name](link to project): Brief description of the project and its purpose. -->
--<!-- [Project Name](link to project): Brief description of the project and its purpose. -->
+<!-- [Project Name](link to project): Brief description of the project and its purpose. -->
+<!-- [Project Name](link to project): Brief description of the project and its purpose. -->
 
 ## GitHub Stats
 ![imasarnago's GitHub stats](https://github-readme-stats.vercel.app/api?username=imasarnago&show_icons=true&theme=radical)
@@ -24,7 +24,7 @@ Here are some of the projects I've been working on: -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imasarnago&layout=compact&theme=radical)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](YourLinkedInProfile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/imanol-sarnago/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](YourTwitterProfile)
 
 Thanks for stopping by! Feel free to reach out if you'd like to connect or collaborate on a project.
