@@ -1,6 +1,6 @@
 # Hi there, I'm imasarnago 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, and I love to work on interesting projects that solve real-world problems. Here's a bit more about me:
+Welcome to my GitHub profile! I'm passionate about coding, and I love to work on interesting projects. Here's a bit more about me:
 
 ## About Me
 - 🌱 I’m currently learning: [Your current learning goals, e.g., TypeScript, Machine Learning]
