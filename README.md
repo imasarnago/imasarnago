@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm passionate about coding, and I love to work on
 - Programming Languages: [C, Haskell, C, Python, Assembly(ARMv8), ¿JavaScript?]
 - Tools: [Git, Bash, VS Code]
 
-## Projects
-Here are some of the projects I've been working on:
+<!-- ## Projects
+Here are some of the projects I've been working on: -->
 
 -<!-- [Project Name](link to project): Brief description of the project and its purpose. -->
 -<!-- [Project Name](link to project): Brief description of the project and its purpose. -->
